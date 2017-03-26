@@ -1,0 +1,3 @@
+[submodule "GoogleWorkshopClient"]
+	path = GoogleWorkshopClient
+	url = https://github.com/ofircarmel/GoogleWorkshopClient
